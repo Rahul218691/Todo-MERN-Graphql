@@ -1,0 +1,11 @@
+body{
+	background-color: gray;
+}
+
+.todobox{
+	padding: 1rem;
+	background-color: #fafafa;
+	--webkit-box-shadow: 5px 5px 15px 5px #000000;
+	box-shadow: 5px 5px 15px 5px #000000;
+	margin-top: 1rem;
+}
